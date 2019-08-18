@@ -1,4 +1,4 @@
-# Hackerrank
+# Hackerrank solutions
 My submissions to Hackerrank questions.
 
 To get the questions
